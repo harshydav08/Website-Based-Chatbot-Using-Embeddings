@@ -10,6 +10,6 @@ beautifulsoup4==4.12.3
 requests==2.31.0
 tiktoken==0.6.0
 
-faiss-cpu==1.7.4
+faiss-cpu==1.13.2
 
 python-dotenv==1.0.1
