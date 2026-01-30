@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Website-Based Chatbot Using Embeddings
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -517,3 +518,6 @@ MIT License - see [LICENSE](LICENSE) file.
 **Built with ❤️ using Python and AI**
 
 **Version:** 1.0.0 | **Last Updated:** January 30, 2026
+=======
+# Website-Based-Chatbot-Using-Embeddings
+>>>>>>> 2bc09bcb7ff4f8d207ec2eacc9f724c918e89cfb
